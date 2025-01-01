@@ -1,5 +1,3 @@
-template:: 12 week year Template
-
 - # Goal  1 =
   How do you achieve
 
