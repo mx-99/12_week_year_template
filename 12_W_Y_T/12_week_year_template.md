@@ -59,3 +59,524 @@ template:: 12 week year Template
 - ### What needs improvement?
 - ### What could I have spent more or less time doing?
 - ### Next week goals ?
+-
+-
+- # Week 2
+- ### Week 2 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+-
+- # Week 3
+- ### Week 3 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 4
+- ### Week 4 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 5
+- ### Week 5 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 6
+- ### Week 6 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 7
+- ### Week 7 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 8
+- ### Week 8 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 9
+- ### Week 9 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 10
+- ### Week 10 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 11
+- ### Week 11 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+- ### Next week goals ?
+-
+- # Week 12
+- ### Week 12 goals =
+- ### TODO Day 1
+- ### Day 1 Execution %?
+- ### What went well Day 1?
+- ### What needs improvement?
+- ### What goals to focus  Day 2 = ?
+-
+- ### TODO Day 2
+- ### Day 2 Execution %?
+- ### What went well Day 2 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 3 = ?
+-
+- ### TODO Day 3
+  
+- ### Day 3 Execution %?
+- ### What went well Day 3 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 4 = ?
+-
+- ### TODO Day 4
+- ### Day 4 Execution %?
+- ### What went well Day 4 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 5 = ?
+-
+- ### TODO Day 5
+- ### Day 5 Execution %?
+- ### What went well Day 5 ?
+- ### What needs improvement?
+- ### What goals to focus  Day 6 = ?
+-
+- ### TODO Day 6
+- ### Day 6 Execution %?
+- ### What went well Day 6 ?
+- ### What needs improvement?
+- ### Day 7 = **Break**
+- ## Weekly Review
+- ### Execution % ?
+- ### Result
+- ### A line about this week
+- ### What went well this week?
+- ### What needs improvement?
+- ### What could I have spent more or less time doing?
+
+
+
